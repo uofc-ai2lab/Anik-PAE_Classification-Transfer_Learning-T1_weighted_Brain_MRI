@@ -51,13 +51,14 @@ Make sure to keep it succinct and focus on the most relevant information.
 If you find our project useful for your research, please consider citing our paper and codebase with the following BibTeX:
 
 ```bibtex
-@inproceedings{paiva2023attention,
-  title={Attention to Emotions: Body Emotion Recognition In-the-Wild Using Self-attention Transformer Network},
-  author={Paiva, Pedro VV and Ramos, Josu{\'e} JG and Gavrilova, Marina and Carvalho, Marco AG},
-  booktitle={International Joint Conference on Computer Vision, Imaging and Computer Graphics},
-  pages={206--228},
-  year={2023},
-  organization={Springer}
+@article{das2024deep,
+  title={Deep learning for detecting prenatal alcohol exposure in pediatric brain MRI: a transfer learning approach with explainability insights},
+  author={Das, Anik and Duarte, Kaue and Lebel, Catherine and Bento, Mariana},
+  journal={Frontiers in Computational Neuroscience},
+  volume={18},
+  pages={1434421},
+  year={2024},
+  publisher={Frontiers Media SA}
 }
 ```
 
