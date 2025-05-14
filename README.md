@@ -1,11 +1,6 @@
-# Anik-PAE-Classification-Transfer-Learning-T1-weighted-Brain-MRI
-
-<div align="center">   
-
-### Instruction: Mandatory Field (*), Optional Field()
+<div align="center">
   
-  
-# Write Your Project Title*
+# Deep learning for detecting prenatal alcohol exposure in pediatric brain MRI: a transfer learning approach with explainability insights
 </div>
 
 <h3 align="center">
