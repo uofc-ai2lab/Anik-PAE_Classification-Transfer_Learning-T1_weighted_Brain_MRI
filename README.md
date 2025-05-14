@@ -9,6 +9,7 @@
 </div>
 
 <h3 align="center">
+  # Paper Link
   <a href="https://arxiv.org/abs/2212.10156">Paper Link*</a> |
   <a href="https://www.youtube.com/watch?v=cyrxJJ_nnaQ">Video</a> |
   <a href="sources/cvpr23_uniad_poster.png">Poster</a> |
