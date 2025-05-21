@@ -23,7 +23,7 @@
 7. [Related Resources](#resources)
 
 ## Overview* <a name="overview"></a>
-In the "Overview" section of a project or research paper, briefly summarize the main goals, methods, and significance of the work. It should provide a clear context, explaining what the project or research aims to achieve. Keep it concise, avoiding technical jargon, while highlighting the novelty or impacts and results of the work.
+Prenatal alcohol exposure (PAE) refers to the exposure of the developing fetus due to alcohol consumption during pregnancy, which disrupts the neurodevelopmental process and may result in long-term cognitive and behavioral abnormalities. Pediatric (2 to 8 years old) brain abnormalities associated with PAE are often subtle and differ across individuals, complicating early diagnosis. Although deep learning (DL) approaches have been promising in adult-centric brain magnetic resonance (MR) image analysis, there are challenges in pediatric-specific analysis due to limited data and a lack of explainability insights. This study incorporated deep transfer learning (TL) and explainable artificial intelligence (XAI) techniques to classify between unexposed controls and PAE in pediatric brain MR scans, followed by identifying brain regions (features) that were responsible for the decision-making process.
 
 ## News <a name="news"></a>
 Write about any changes or updates such as paper tile change, planning metric, bugfix, new features, awards, etc. to the repository.\
