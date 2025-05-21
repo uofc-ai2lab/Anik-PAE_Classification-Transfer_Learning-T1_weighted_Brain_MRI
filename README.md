@@ -5,9 +5,9 @@
 
 <h3 align="center">
   <a href="https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1434421/full">Paper Link*</a> |
-  <a href="https://www.youtube.com/watch?v=cyrxJJ_nnaQ">Video</a> |
-  <a href="sources/cvpr23_uniad_poster.png">Poster</a> |
-  <a href="https://opendrivelab.com/e2ead/UniAD_plenary_talk_slides.pdf">Slides</a>
+  <a href="">Video</a> |
+  <a href="">Poster</a> |
+  <a href="">Slides</a>
 </h3>
 
 <br><br>
@@ -30,7 +30,16 @@ Write about any changes or updates such as paper tile change, planning metric, b
 Eaxmple: - **`2024/10/10`** Paper available on arXiv.
 
 ## Getting Started* <a name="start"></a>
-In the Get Started section of a GitHub project or research paper, provide clear instructions for users to set up and use your code. Also, mention the dataset source, any specific framework or libraries requirements, etc.
+**Dataset:** Unexposed controls T1-weighted brain MR scans are publicly available at https://osf.io/axz5r/. However, the PAE data is private and may not be accessible upon request.
+
+**Preprocessing:** Skull stripping with FSL-BET and SynthStrip, atlas-based linear registration (6-degree of freedom) with FSL-FLIRT, bias field correction with N4 technique, min-max normalization, resizing, and random 3D rotation as augmentation during training.
+
+**Classification:** Feature extraction with pre-trained Simple Fully Convolutional Network (SFCN) [https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain/]. Then a shallow classifier with Adam optimizer and binary cross-entropy loss was trained with the extracted features.
+
+**Explainability:** Gradient-weighted class activation mapping (Grad-CAM) to evaluate the explainability of the feature extraction step. Generated heatmap was resized to input scan size to produce blended image by overlaying the heatmap and input MR scan.
+
+**Frameworks/Libraries & Tools:** Pytorch, MONAI, SimpleITK, Grad-CAM, FSL, SynthStrip.
+
 
 ## Results* <a name="results"></a>
 In the Results section of a project or research paper on GitHub, you should provide a clear and concise summary of the outcomes or findings. Here's a brief instruction:
