@@ -74,6 +74,6 @@ If you find our project useful for your research, please consider citing our pap
 Nothing to mention.
 
 ## Related Resources <a name="resources"></a>
-- [Related Literature](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1434421/full) (ai2lab)
-- [Book Link](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=asc_df_1098125975/?gad_source=1&hvadid=706745562943&hvdev=c&hvdvcmdl&hvlocint&hvlocphy=9001320&hvnetw=g&hvpone&hvpos&hvptwo&hvqmt&hvrand=18226388509454359838&hvtargid=pla-1651497364252&linkCode=df0&mcid=7e8ca6f4dddf3bd783d530f456a83b68&psc=1&tag=googleshopc0c-20)
-- [Web Content](https://d2l.ai/)
+- [Related Literature-1](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13407/1340723/A-comprehensive-processing-framework-crafted-for-pediatric-brain-MRI/10.1117/12.3047146.short) Preprocessing framework for pediatric brain MRI
+- [Related Literature-2](https://ieeexplore.ieee.org/abstract/document/10373445) Comparative skull stripping techniques on pediatric brain MRI
+- [Related Literature-3](https://ieeexplore.ieee.org/abstract/document/10783636) Data augmentation to improve Prenatal Alcohol Exposure classification
